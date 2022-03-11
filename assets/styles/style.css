@@ -1,0 +1,22 @@
+body {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    padding-top: 50px;
+}
+
+#currentNumber {
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.negative {
+    color: red;
+}
+
+h1 {
+    padding: 30px;
+}
