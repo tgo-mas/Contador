@@ -1,6 +1,7 @@
 body {
-    color: gray;
+    color: #303030;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
 }
 
 .container {
@@ -15,6 +16,10 @@ body {
 
 .negative {
     color: red;
+}
+
+.next {
+    padding-top: 30px;
 }
 
 h1 {
